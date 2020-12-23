@@ -1,4 +1,7 @@
-# NextJS Typescript Boilerplate
+# Personal First Practice App of Next.js + React Hooks + Redux + Redux Toolkit + Material-UI
+
+- 練習のため。
+- NextJS の Typescript + ESLint のテンプレを利用した。
 
 Bootstrap a developer-friendly NextJS app configured with:
 
