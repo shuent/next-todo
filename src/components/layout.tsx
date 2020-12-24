@@ -29,6 +29,9 @@ const Layout: React.FC = ({ children }) => {
           <Link href="/">
             <Button color="inherit">Todo</Button>
           </Link>
+          <Link href="/signIn">
+            <Button color="inherit">Sign In</Button>
+          </Link>
         </Toolbar>
       </AppBar>
       {children}
